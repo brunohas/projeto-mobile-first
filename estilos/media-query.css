@@ -10,6 +10,9 @@
 }
 
 @media screen and (orientation: portrait) and (min-width: 600px) {
+    html {
+        background-color: black;
+    }
     body {
         background-image: linear-gradient(to top, var(--verde), var(--lilas));
     }
