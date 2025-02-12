@@ -56,13 +56,15 @@ section#login > div#imagem {
 
 section#login > div#texto {
     display: block;
+    padding: 10px;
 }
 
-h1 {
+div#texto > h1 {
     text-align: center;
-    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
 }
 
-p {
-    padding: 10px;
+div#texto > p {
+    font-size: 0.9em;
 }
