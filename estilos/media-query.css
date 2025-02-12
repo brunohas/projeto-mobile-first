@@ -21,6 +21,7 @@
         float: left;
         width: 30%;
         height: 100%;
+        border-top-right-radius: 0px;
     }
     section#login > div#texto {
         float: right;
@@ -40,6 +41,7 @@
         float: left;
         width: 50%;
         height: 100%;
+        border-top-right-radius: 0px;
     }
     section#login > div#texto {
         float: right;
